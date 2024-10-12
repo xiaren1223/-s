@@ -6,7 +6,7 @@ import torchvision.transforms as t
 from torch.utils.data import DataLoader
 
 # 定义超参数
-batch_size = 100#每次迭代的数据样本为64个
+batch_size = 100#每次迭代的数据样本为100个
 learning_rate = 0.001#学习率精确到0.001
 num_epochs = 2#测试的次数
 
